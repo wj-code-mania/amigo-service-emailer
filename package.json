@@ -21,7 +21,7 @@
     "crypto-js": "^3.1.9-1",
     "express": "^4.16.4",
     "gridfs-stream": "^1.1.1",
-    "mongoose": "^5.4.19",
+    "mongoose": "^5.7.5",
     "morgan": "~1.8.1",
     "nodemailer": "^5.1.1",
     "request": "^2.88.0",
